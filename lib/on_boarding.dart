@@ -11,7 +11,7 @@ class OnBoardingWelcomeScreen extends StatelessWidget {
         body: Container(
           height: 100,
           width: 100,
-          color: Colors.red,git init
+          color: Colors.red,
         )
         
       );
